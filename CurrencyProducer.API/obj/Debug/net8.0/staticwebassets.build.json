@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZDVU39upub16KU+nJnjyoFk0KwUkXfipRU8Ka97W3J8=",
+  "Source": "CurrencyProducer.API",
+  "BasePath": "_content/CurrencyProducer.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
