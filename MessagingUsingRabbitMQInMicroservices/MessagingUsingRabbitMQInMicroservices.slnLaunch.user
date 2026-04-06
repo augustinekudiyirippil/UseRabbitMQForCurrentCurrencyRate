@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\CurrencyProducer.API\\CurrencyProducer.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\CurrencyConsumer.API\\CurrencyConsumer.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

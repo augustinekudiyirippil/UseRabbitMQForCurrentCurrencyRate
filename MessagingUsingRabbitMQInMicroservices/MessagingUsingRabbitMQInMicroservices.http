@@ -1,0 +1,6 @@
+@MessagingUsingRabbitMQInMicroservices_HostAddress = http://localhost:5232
+
+GET {{MessagingUsingRabbitMQInMicroservices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
