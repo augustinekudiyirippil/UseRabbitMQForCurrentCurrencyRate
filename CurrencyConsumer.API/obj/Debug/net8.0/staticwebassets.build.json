@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "q3UgMo+hKdLzplLLBpZkzgaiHLLF23KqLmfmipSoIKw=",
+  "Source": "CurrencyConsumer.API",
+  "BasePath": "_content/CurrencyConsumer.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
