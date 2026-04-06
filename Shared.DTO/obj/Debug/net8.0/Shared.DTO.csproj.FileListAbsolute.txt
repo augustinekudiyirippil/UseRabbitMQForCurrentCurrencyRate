@@ -1,0 +1,11 @@
+D:\Augustine\Messaging using RabbitMQ in Microservices\Shared.DTO\bin\Debug\net8.0\Shared.DTO.deps.json
+D:\Augustine\Messaging using RabbitMQ in Microservices\Shared.DTO\bin\Debug\net8.0\Shared.DTO.dll
+D:\Augustine\Messaging using RabbitMQ in Microservices\Shared.DTO\bin\Debug\net8.0\Shared.DTO.pdb
+D:\Augustine\Messaging using RabbitMQ in Microservices\Shared.DTO\obj\Debug\net8.0\Shared.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Augustine\Messaging using RabbitMQ in Microservices\Shared.DTO\obj\Debug\net8.0\Shared.DTO.AssemblyInfoInputs.cache
+D:\Augustine\Messaging using RabbitMQ in Microservices\Shared.DTO\obj\Debug\net8.0\Shared.DTO.AssemblyInfo.cs
+D:\Augustine\Messaging using RabbitMQ in Microservices\Shared.DTO\obj\Debug\net8.0\Shared.DTO.csproj.CoreCompileInputs.cache
+D:\Augustine\Messaging using RabbitMQ in Microservices\Shared.DTO\obj\Debug\net8.0\Shared.DTO.dll
+D:\Augustine\Messaging using RabbitMQ in Microservices\Shared.DTO\obj\Debug\net8.0\refint\Shared.DTO.dll
+D:\Augustine\Messaging using RabbitMQ in Microservices\Shared.DTO\obj\Debug\net8.0\Shared.DTO.pdb
+D:\Augustine\Messaging using RabbitMQ in Microservices\Shared.DTO\obj\Debug\net8.0\ref\Shared.DTO.dll
